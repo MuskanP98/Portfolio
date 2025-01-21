@@ -1,25 +1,24 @@
 <!DOCTYPE html>
-    <html lang="en">
-    <head>
+<html lang="en">
+<head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Muskan's Portfolio</title>
-    <link rel="stylesheet" href="styles.css"> <!-- Link to your CSS file -->
-    </head>
-    <body>
-        <header>
-            <div class="navbar">
-                <h1>Muskan Patel</h1>
-                    <nav>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <div class="navbar">
+             <h1>Muskan Patel</h1>
+            <nav>
                 <ul>
                     <li><a href="#about">About Me</a></li>
                     <li><a href="#projects">Projects</a></li>
                     <li><a href="#contact">Contact</a></li>
                 </ul>
-                    </nav>
-            </div>
-        </header>
-
+            </nav>
+        </div>
+    </header>
     <section id="hero">
         <h2>Welcome to My Portfolio!</h2>
         <p>Dive into a mix of cool data analytics projects I've worked on, plus some exciting ones I'm currently brewing. Feel free to explore and see what’s in the works!</p>
