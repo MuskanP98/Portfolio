@@ -24,7 +24,7 @@
     </section>
     <section id="about" style="display: flex; justify-content: center; align-items: center; text-align: center; height: 100vh;">
         <h2>About Me</h2>
-           <img src="https://github.com/MuskanP98/Portfolio/blob/main/ProfilePic.jpg" alt="Muskan Patel" style="width:200;height:auto;">
+           <img src="https://github.com/MuskanP98/Portfolio/blob/main/ProfilePic.jpg" alt="Muskan Patel" style="width:150;height:auto;">
             <p>Hi! I’m Muskan Patel, your friendly neighborhood Data Analyst with a flair for turning data chaos into clarity. With a passion for Python, SQL, and Tableau, I’m always diving into new projects that mix problem-solving with creativity. When I’m not exploring ways to make data more insightful, you can find me leading events, hosting college fests, or occasionally flexing my debate skills (I’ve got a trophy to prove it!). If you’re looking for someone who can tackle complex problems while keeping things fun, I’m your gal! Let’s connect and create some data magic together.</p>
         </section>
     <section id="projects">
