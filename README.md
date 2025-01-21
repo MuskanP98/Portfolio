@@ -22,10 +22,10 @@
         <h2>Welcome to My Portfolio!</h2>
         <p>Dive into a mix of cool data analytics projects I've worked on, plus some exciting ones I'm currently brewing. Feel free to explore and see what’s in the works!</p>
     </section>
-    <section id="about">
+    <section id="about" style="display: flex; justify-content: center; align-items: center; text-align: center; height: 100vh;>
         <h2>About Me</h2>
-       <img src="https://github.com/MuskanP98/Portfolio/blob/main/ProfilePic.jpg" alt="Muskan Patel" style="width:auto;height:auto;">
-    <p>Hi! I'm Muskan Patel, a Data Analyst specializing in Python, SQL, and automation. With experience in system monitoring, M2M communication, and customer service, I thrive on using data to solve complex problems. I’ve successfully automated processes to improve efficiency and reduce downtime, driving impactful insights for business decisions. My passion is leveraging data to optimize operations and contribute to organizational growth. I'm always excited to take on new challenges in the ever-evolving world of data analysis!</p>
+       <img src="https://github.com/MuskanP98/Portfolio/blob/main/ProfilePic.jpg" alt="Muskan Patel" style="width:200;height:auto;">
+    <p>Hi! I’m Muskan Patel, your friendly neighborhood Data Analyst with a flair for turning data chaos into clarity. With a passion for Python, SQL, and Tableau, I’m always diving into new projects that mix problem-solving with creativity. When I’m not exploring ways to make data more insightful, you can find me leading events, hosting college fests, or occasionally flexing my debate skills (I’ve got a trophy to prove it!). If you’re looking for someone who can tackle complex problems while keeping things fun, I’m your gal! Let’s connect and create some data magic together.</p>
     </section>
     <section id="projects">
         <h2>My Projects</h2>
