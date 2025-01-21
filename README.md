@@ -1,4 +1,4 @@
-    <!DOCTYPE html>
+<!DOCTYPE html>
     <html lang="en">
     <head>
     <meta charset="UTF-8">
@@ -27,7 +27,7 @@
 
     <section id="about">
         <h2>About Me</h2>
-       <img src="https://github.com/MuskanP98/Portfolio/blob/main/Profile%20pic.jpg" alt="Muskan Patel" style="width:150px;height:auto;">
+       <img src="https://github.com/MuskanP98/Portfolio/blob/main/ProfilePic.jpg" alt="Muskan Patel" style="width:150px;height:auto;">
     <p>Hi! I'm Muskan Patel, a Data Analyst specializing in Python, SQL, and automation. With experience in system monitoring, M2M communication, and customer service, I thrive on using data to solve complex problems. I’ve successfully automated processes to improve efficiency and reduce downtime, driving impactful insights for business decisions. My passion is leveraging data to optimize operations and contribute to organizational growth. I'm always excited to take on new challenges in the ever-evolving world of data analysis!</p>
     </section>
 
