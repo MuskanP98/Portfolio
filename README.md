@@ -23,14 +23,11 @@
         <h2>Welcome to My Portfolio!</h2>
         <p>Dive into a mix of cool data analytics projects I've worked on, plus some exciting ones I'm currently brewing. Feel free to explore and see what’s in the works!</p>
     </section>
-
     <section id="about">
         <h2>About Me</h2>
        <img src="https://github.com/MuskanP98/Portfolio/blob/main/ProfilePic.jpg" alt="Muskan Patel" style="width:150px;height:auto;">
     <p>Hi! I'm Muskan Patel, a Data Analyst specializing in Python, SQL, and automation. With experience in system monitoring, M2M communication, and customer service, I thrive on using data to solve complex problems. I’ve successfully automated processes to improve efficiency and reduce downtime, driving impactful insights for business decisions. My passion is leveraging data to optimize operations and contribute to organizational growth. I'm always excited to take on new challenges in the ever-evolving world of data analysis!</p>
     </section>
-
-
     <section id="projects">
         <h2>My Projects</h2>
         <div class="project">
@@ -64,7 +61,6 @@
             <a href="https://github.com/MuskanP98/British-Airways-Review">View Project</a>
         </div>
     </section>
-
     <section id="contact">
         <h2>Contact</h2>
         <p>Feel free to reach out to me for collaborations, opportunities, or just to connect!</p>
@@ -76,9 +72,6 @@
     <p><strong>Email:</strong> <a href="mailto:muskanp222@gmail.com">muskanp222@gmail.com</a></p>
     <p><strong>Phone:</strong> +353 899467204</p>
     </section>
-    
-
-
     <footer>
         <p>&copy; 2025 Muskan Patel. All rights reserved.</p>
     </footer>
