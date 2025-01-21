@@ -74,15 +74,20 @@
             <label for="email">Email: Muskanp222@gmail.com</label>
             <input type="email" id="email" name="email" required>
             
-            <label for="message">Message:</label>
-            <textarea id="message" name="message" required></textarea>
-            
-            <button type="submit">Send Message</button>
         </form>
     </section>
+    <section id="socials">
+    <p>Feel free to connect with me on social media:</p>
+    <p>
+        <a href="https://www.instagram.com/muskanpatel_98/" target="_blank">Instagram</a> | 
+        <a href="https://www.linkedin.com/in/muskan-patel2209/" target="_blank">LinkedIn</a> | 
+        <a href="https://github.com/MuskanP98" target="_blank">GitHub</a>
+    </p>
+    </section>
+
 
     <footer>
         <p>&copy; 2025 Muskan Patel. All rights reserved.</p>
     </footer>
-</body>
-</html>
+    </body>
+    </html>
