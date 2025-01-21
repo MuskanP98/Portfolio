@@ -9,7 +9,7 @@
 <body>
     <header>
         <div class="navbar">
-            <h1>Muskan Patek</h1>
+            <h1>Muskan Patel</h1>
             <nav>
                 <ul>
                     <li><a href="#about">About Me</a></li>
@@ -35,7 +35,7 @@
         <div class="project">
             <h3>Project 1: Airbnb Insights NYC Data-Driven Market Analysis</h3>
             <p>This project combines exploratory analytics, predictive modeling, and dashboard-based visualization to deliver actionable insights for multiple stakeholders in the Airbnb ecosystem. By leveraging data-driven decisions, this project contributes to optimizing the New York City Airbnb market and enhancing user experiences.</p>
-            <a href="https://github.com/MuskanP98/Airbnb-Insights-NYC-Data-Driven-Market-Analysis>View Project</a>
+            <a href="https://github.com/MuskanP98/Airbnb-Insights-NYC-Data-Driven-Market-Analysis">View Project</a>
         </div>
         <div class="project">
             <h3>Project 2: Aviation Data Analysis and Fatal Accident Prediction Using ML</h3>
