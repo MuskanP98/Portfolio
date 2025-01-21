@@ -67,23 +67,15 @@
     <section id="contact">
         <h2>Contact</h2>
         <p>Feel free to reach out to me for collaborations, opportunities, or just to connect!</p>
-        <form>
-            <label for="name">Name: Muskan Patel</label>
-            <input type="text" id="name" name="name" required>
-            
-            <label for="email">Email: Muskanp222@gmail.com</label>
-            <input type="email" id="email" name="email" required>
-            
-        </form>
-    </section>
-    <section id="socials">
-    <p>Feel free to connect with me on social media:</p>
-    <p>
+         <p>
         <a href="https://www.instagram.com/muskanpatel_98/" target="_blank">Instagram</a> | 
         <a href="https://www.linkedin.com/in/muskan-patel2209/" target="_blank">LinkedIn</a> | 
         <a href="https://github.com/MuskanP98" target="_blank">GitHub</a>
     </p>
+    <p><strong>Email:</strong> <a href="mailto:muskanp222@gmail.com">muskanp222@gmail.com</a></p>
+    <p><strong>Phone:</strong> +353 899467204</p>
     </section>
+    
 
 
     <footer>
