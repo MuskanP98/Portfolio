@@ -60,7 +60,7 @@
             <a href="https://github.com/MuskanP98/British-Airways-Review">View Project</a>
         </div>
          <div class="project">
-            <h3>Project 6: Sales Performance & Forecasting Dashboard – Power BI</h3>
+            <h3>Project 7: Sales Performance & Forecasting Dashboard – Power BI</h3>
             <p>This project builds an interactive sales dashboard using Power BI, enabling users to explore sales trends over time with filters, drill-downs, and forecasting. It highlights key metrics through dynamic visualizations, showcasing practical skills in data analysis and time series forecasting.</p>
             <a href="https://github.com/MuskanP98/British-Airways-Review">View Project</a>
         </div>
