@@ -64,6 +64,11 @@
             <p>This project builds an interactive sales dashboard using Power BI, enabling users to explore sales trends over time with filters, drill-downs, and forecasting. It highlights key metrics through dynamic visualizations, showcasing practical skills in data analysis and time series forecasting.</p>
             <a href="https://github.com/MuskanP98/SuperStore-Sales-Performance-Forecasting-Dashboard-Power-BI">View Project</a>
         </div>
+         <div class="project">
+            <h3>Project 8: Plant Co. Performance Report – Power BI</h3>
+            <p>An interactive Power BI dashboard for analyzing Year-to-Date (YTD) vs Previous YTD performance across Quantity, Sales, and Gross Profit. Users can dynamically filter by year, country, and product type to uncover performance trends and underperforming regions. Visuals include a tree map, waterfall chart, combo chart, and a scatter plot for account segmentation by GP%.</p>
+            <a href="https://github.com/MuskanP98/Plant-Co.-Performance-Report">View Project</a>
+        </div>
     </section>
     <section id="contact">
         <h2>Contact</h2>
